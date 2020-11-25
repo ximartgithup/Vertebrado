@@ -17,6 +17,7 @@ Partes del programa
 3. Modificar la accion del boton Seleccionar para identificar que valor de la lista fue seleccionado y :
     - Llamar al método generarArrayVertebrados, encuentre el nombre del vertebrado e imprima en el campo de texto
     nombreVertebrado es claseVertebrado
+Modificado por ximart@gmail.com
 
 **/
 public class VertebradoFrame extends javax.swing.JFrame {
